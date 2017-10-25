@@ -1,0 +1,20 @@
+1508408916196	geckodriver	INFO	geckodriver 0.18.0
+1508408916209	geckodriver	INFO	Listening on 127.0.0.1:58636
+1508408918272	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1508408920733	Marionette	INFO	Listening on port 58642
+1508408921413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508409399428	Marionette	INFO	New connections will no longer be accepted
+ons will no longer be accepted
+ Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504174568706	Marionette	INFO	Ceased listening
+c/js/aup_functions.js, line 1000: NS_ERROR_UNEXPECTED: 
+session state file 
+  Message: Win error 3 during operation open on file C:\Users\KATMOH~1.ORA\AppData\Local\Temp\rust_mozprofile.FJgQD83NcuFN\sessionstore-backups\recovery.js.tmp (The system cannot find the path specified.
+)
+  
+1503310771948	Marionette	INFO	New connections will no longer be accepted

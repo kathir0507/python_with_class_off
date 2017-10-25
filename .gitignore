@@ -1,0 +1,7 @@
+*.html
+*.pyc
+*.png
+Reports
+Screenshots
+.project
+.pydevproject

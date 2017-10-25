@@ -1,0 +1,9 @@
+{
+  "Test_AupPrefernces.py::Test_AupPrefernces::test_Verify_aupPreferences": true, 
+  "Test_AupaddSite.py::Test_AupaddSite::test_Verify_addSite": true, 
+  "Test_Cron2_PopulateForecastDate.py::Test_Cron2_PopulateForecaseDate::test_Verify_cron2_PopulateForecasedate": true, 
+  "Test_Cron3_PerformAupUpgradeSiteCreation.py::Test_Cron3_PopulateForecasedate::test_Verify_cron3_PopulateForecasedate": true, 
+  "Test_ProdRelease_info.py::Test_ProdRelease::test_Verify_prodRelease": true, 
+  "Test_Sitesnap_Functional.py::Test_Sitesnap_Functional::test_Verify_siteSnap_Functioal": true, 
+  "Test_Sitesnap_Sanity.py::Test_Sitesnap_Sanity::test_Verify_siteSnap_Sanity": true
+}

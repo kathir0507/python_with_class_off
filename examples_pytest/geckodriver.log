@@ -1,0 +1,17 @@
+1503478518634	geckodriver	INFO	geckodriver 0.18.0
+1503478518648	geckodriver	INFO	Listening on 127.0.0.1:60678
+1503478520763	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1-]: VendorIDMismatch V 0x8086 0x1414
+1503478523346	Marionette	INFO	Listening on port 60684
+1503478523914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503479117596	Marionette	INFO	Ceased listening
+s thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502441070527	Marionette	INFO	Ceased listening
+ing profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":173,"stack":["resource://gre/modules/CrashMonitor.jsm:init:173","resource://gre/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Aug 11 2017 13:06:35 GMT+0530 (India Standard Time)","writeAtomic"],"latestReceived":null,"messagesSent":104,"messagesReceived":103,"messagesQueued":109,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":173,"stack":["resource://gre/modules/CrashMonitor.jsm:init:173","resource://gre/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1511,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1511","resource://gre/modules/osfile/osfile_async_front.jsm:null:1531","resource://gre/modules/osfile.jsm:null:11","resource://services-common/utils.js:null:12","resource://services-sync/util.js:null:12","resource://gre/components/Weave.js:null:13"]}] Barrier: profile-before-change
+1502436996543	Marionette	INFO	Ceased listening

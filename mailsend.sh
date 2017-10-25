@@ -1,0 +1,1 @@
+python test_HTMLTestRunner.py >  D:/CRUX/crux-ui-automation/Reports/test.html

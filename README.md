@@ -1,0 +1,2 @@
+crux-ui-automation.git
+

@@ -1,0 +1,27 @@
+1508841119682	geckodriver	INFO	geckodriver 0.18.0
+1508841119699	geckodriver	INFO	Listening on 127.0.0.1:59091
+1508841121760	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1508841124492	Marionette	INFO	Listening on port 59101
+1508841124900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508841481015	Marionette	INFO	New connections will no longer be accepted
+ons will no longer be accepted
+JavaScript error: resource://gre/components/nsPrompter.js, line 424: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: https://crux.hmsdev.lan/sitesnap/static/js/aup_functions.js, line 1000: NS_ERROR_UNEXPECTED: 
+tent/listener.js:467:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:465:15
+
+*************************
+1503307483156	Marionette	INFO	New connections will no longer be accepted
+ption: Unexpected literal at position 6
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503046235136	Marionette	INFO	Ceased listening
